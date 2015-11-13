@@ -1,2 +1,5 @@
 compile
 test
+compile
+test
+exit
