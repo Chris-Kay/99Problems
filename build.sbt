@@ -1,4 +1,4 @@
-name := "Bowling"
+name := "Problems"
 
 version := "1.0"
 

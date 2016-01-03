@@ -4,14 +4,14 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes
+output dir -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes
 compile options:
 0 items
 javac options:
 0 items
 compiler version:
 1 items
-0 -> 2.10.5
+0 -> 2.10.4
 compile order:
 1 items
 0 -> Mixed
@@ -20,28 +20,28 @@ name hashing:
 0 -> true
 products:
 11 items
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$1.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$2.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$3.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$4.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$5.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$2.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$3.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$4.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$.class
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$1.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$2.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$3.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$4.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$5.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$2.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$3.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$4.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$.class
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build.class
 binary dependencies:
 9 items
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.ivy2/cache/scala_2.10/sbt_0.13/com.earldouglas/xsbt-web-plugin/jars/xsbt-web-plugin-1.1.0.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.14.0.jar
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> /Users/kayc06/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Program Files\Java\jre1.8.0_60\lib\rt.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.8.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.8.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.8.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.8.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.8.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.ivy2\cache\scala_2.10\sbt_0.13\com.earldouglas\xsbt-web-plugin\jars\xsbt-web-plugin-1.1.0.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.ivy2\cache\scala_2.10\sbt_0.13\com.eed3si9n\sbt-assembly\jars\sbt-assembly-0.14.0.jar
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> C:\Users\Chris\.sbt\boot\scala-2.10.4\lib\scala-library.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -60,134 +60,134 @@ inheritance external dependencies:
 0 items
 class names:
 11 items
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$1
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$1$$anonfun$apply$1
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$1$$anonfun$apply$2
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$1$$anonfun$apply$3
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$1$$anonfun$apply$4
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$1$$anonfun$apply$5
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$2
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$3
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build$$anonfun$project$4
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$1
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$1$$anonfun$apply$1
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$1$$anonfun$apply$2
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$1$$anonfun$apply$3
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$1$$anonfun$apply$4
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$1$$anonfun$apply$5
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$2
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$3
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build$$anonfun$project$4
 used names:
 67 items
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> %
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> %%
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> ++
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> ++=
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> :=
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> <init>
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Append
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> AssemblyKeys
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Build
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Classpaths
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> InitializeInstance
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> JettyPort
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Keys
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> ManifestFactory
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> MergeStrategy
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Name
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> PathList
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Project
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> ScalaVersion
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> ScalatraVersion
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Seq
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> TaskKey
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Unit
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> Version
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> XwpPlugin
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> acceptanceTestPause
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> allResolvers
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> appendN
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> appendSeq
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> apply
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> at
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> canBuildFrom
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> collection
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> com
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> dependencies
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> earldouglas
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> file
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> libraryDependencies
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> moduleIDConfigurable
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> name
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> org
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> package
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> project
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> pure
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> reflect
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> resolvers
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> sbt
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> sbtassembly
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> scala
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> scalaVersion
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> scalatra
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> set
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> taskKey
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> testDependencies
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> toGroupID
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> toRepositoryName
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> typesafeReleases
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> version
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$1
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$2
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$3
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$4
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$5
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$6
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$7
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> x$8
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> xwp
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> %
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> %%
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> ++
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> ++=
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> :=
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> <init>
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Append
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> AssemblyKeys
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Build
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Classpaths
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> InitializeInstance
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> JettyPort
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Keys
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> ManifestFactory
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> MergeStrategy
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Name
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> PathList
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Project
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> ScalaVersion
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> ScalatraVersion
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Seq
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> TaskKey
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Unit
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> Version
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> XwpPlugin
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> acceptanceTestPause
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> allResolvers
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> appendN
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> appendSeq
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> apply
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> at
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> canBuildFrom
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> collection
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> com
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> dependencies
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> earldouglas
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> file
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> libraryDependencies
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> moduleIDConfigurable
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> name
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> org
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> package
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> project
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> pure
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> reflect
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> resolvers
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> sbt
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> sbtassembly
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> scala
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> scalaVersion
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> scalatra
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> set
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> taskKey
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> testDependencies
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> toGroupID
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> toRepositoryName
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> typesafeReleases
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> version
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$1
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$2
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$3
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$4
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$5
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$6
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$7
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> x$8
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> xwp
 product stamps:
 11 items
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$1.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$2.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$3.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$4.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1$$anonfun$apply$5.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$1.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$2.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$3.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$$anonfun$project$4.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build$.class -> lastModified(1446042607000)
-/Users/kayc06/workspace/Bowling/project/project/target/scala-2.10/sbt-0.13/classes/Build.class -> lastModified(1446042607000)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$1.class -> lastModified(1451839645639)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$2.class -> lastModified(1451839645643)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$3.class -> lastModified(1451839645648)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$4.class -> lastModified(1451839645652)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1$$anonfun$apply$5.class -> lastModified(1451839645664)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$1.class -> lastModified(1451839645632)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$2.class -> lastModified(1451839645667)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$3.class -> lastModified(1451839645671)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$$anonfun$project$4.class -> lastModified(1451839645675)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build$.class -> lastModified(1451839645615)
+C:\Users\Chris\workspace\99Problems\project\project\target\scala-2.10\sbt-0.13\classes\Build.class -> lastModified(1451839645527)
 source stamps:
 1 items
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> hash(41fa4ec4771d41f390df7b33e8d852313de7082b)
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> hash(e0a07e07620b3bc65aaa9e47484a8b374efdd392)
 binary stamps:
 9 items
-/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
-/Users/kayc06/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> lastModified(1439253158000)
-/Users/kayc06/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar -> lastModified(1439253376000)
-/Users/kayc06/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> lastModified(1439253385000)
-/Users/kayc06/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> lastModified(1439253389000)
-/Users/kayc06/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> lastModified(1444057405000)
-/Users/kayc06/.ivy2/cache/scala_2.10/sbt_0.13/com.earldouglas/xsbt-web-plugin/jars/xsbt-web-plugin-1.1.0.jar -> lastModified(1444818448000)
-/Users/kayc06/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.14.0.jar -> lastModified(1441881612000)
-/Users/kayc06/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425520576000)
+C:\Program Files\Java\jre1.8.0_60\lib\rt.jar -> lastModified(1440439588554)
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.8.jar -> lastModified(1430156456000)
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.8.jar -> lastModified(1430156161000)
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.8.jar -> lastModified(1430152703000)
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.8.jar -> lastModified(1430151849000)
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.8.jar -> lastModified(1445980634928)
+C:\Users\Chris\.ivy2\cache\scala_2.10\sbt_0.13\com.earldouglas\xsbt-web-plugin\jars\xsbt-web-plugin-1.1.0.jar -> lastModified(1445979264561)
+C:\Users\Chris\.ivy2\cache\scala_2.10\sbt_0.13\com.eed3si9n\sbt-assembly\jars\sbt-assembly-0.14.0.jar -> lastModified(1441881612000)
+C:\Users\Chris\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> lastModified(1395179187000)
 class names:
 9 items
-/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/kayc06/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> sbt.LinePosition$
-/Users/kayc06/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar -> sbt.Resolver
-/Users/kayc06/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> sbt.Def$
-/Users/kayc06/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> sbt.Build
-/Users/kayc06/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> sbt.package$
-/Users/kayc06/.ivy2/cache/scala_2.10/sbt_0.13/com.earldouglas/xsbt-web-plugin/jars/xsbt-web-plugin-1.1.0.jar -> com.earldouglas.xwp.XwpPlugin$
-/Users/kayc06/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.14.0.jar -> sbtassembly.MergeStrategy$
-/Users/kayc06/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.Unit
+C:\Program Files\Java\jre1.8.0_60\lib\rt.jar -> java.lang.Object
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.8.jar -> sbt.LinePosition$
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.8.jar -> sbt.impl.RepositoryName
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.8.jar -> sbt.ProjectReference
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.8.jar -> sbt.Build
+C:\Users\Chris\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.8.jar -> sbt.package$
+C:\Users\Chris\.ivy2\cache\scala_2.10\sbt_0.13\com.earldouglas\xsbt-web-plugin\jars\xsbt-web-plugin-1.1.0.jar -> com.earldouglas.xwp.XwpPlugin$
+C:\Users\Chris\.ivy2\cache\scala_2.10\sbt_0.13\com.eed3si9n\sbt-assembly\jars\sbt-assembly-0.14.0.jar -> sbtassembly.AssemblyKeys$
+C:\Users\Chris\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> scala.collection.Seq
 internal apis:
 1 items
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAEwhePAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFF9t5V0AAZub3RpZnlzcQB+AAwCLchIdAAEd2FpdHNxAH4ADAPJZl50AAxTY2FsYVZlcnNpb25zcQB+AAzOdUBLdAAETmFtZXNxAH4ADM9w1/p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhPDtfXQAEHRlc3REZXBlbmRlbmNpZXNzcQB+AAxQbdV6dAAMYnVpbGRMb2FkZXJzc3EAfgAMCjrfNnQABUJ1aWxkc3EAfgAMbuzLDXQABmVxdWFsc3NxAH4ADKpuKQp0AAdwcm9qZWN0c3EAfgAMPoU4CHQACUpldHR5UG9ydHNxAH4ADMYQ9+N0AAxhc0luc3RhbmNlT2ZzcQB+AAzXpniidAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMrFyJa3QADHN5bmNocm9uaXplZHNxAH4ADENpZdx0AAxhbGxSZXNvbHZlcnNzcQB+AAwIJ0VpdAANJGlzSW5zdGFuY2VPZnNxAH4ADB01dH50AAdWZXJzaW9uc3EAfgAMMGGQD3QACW5vdGlmeUFsbHNxAH4ADI0xqjZ0AAtyb290UHJvamVjdHNxAH4ADCNS2fx0AAxpc0luc3RhbmNlT2ZzcQB+AAwzC2mVdAAPU2NhbGF0cmFWZXJzaW9uc3EAfgAMLI9jBnQAAj09c3EAfgAMYxZes3QABWNsb25lc3EAfgAMZon7gnQACHRvU3RyaW5nc3EAfgAMFj2genQAE2FjY2VwdGFuY2VUZXN0UGF1c2VzcQB+AAx8dF5KdAACIT1zcQB+AAyL0ehQdAAIcHJvamVjdHNzcQB+AAxlWA5rdAAIZ2V0Q2xhc3NzcQB+AAyiiSqSdAACbmVzcQB+AAzkDm6bdAAMZGVwZW5kZW5jaWVzc3EAfgAM5CPjnnQAAmVxc3EAfgAM7+3/m3QACHNldHRpbmdzc3EAfgAMnz45EHQAAiMjc3EAfgAMuZHxrnQACGZpbmFsaXplc3EAfgAMnZNllXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAddXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdABwc3EAfgB5c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4AfXNxAH4AdABwc3EAfgB5dXEAfgBYAAAAAHNxAH4AdABwc3EAfgB5dXEAfgBYAAAAAHNxAH4AdABwc3EAfgB5dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB8dAAFQnVpbGRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAAGT2JqZWN0c3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NxAH4AmXQABGphdmFzcQB+AJl0AARsYW5ncQB+AJ5zcQB+AI10AANBbnlzcQB+AJFzcQB+AJR1cQB+AJcAAAACc3EAfgCZdAAFc2NhbGFxAH4AnnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQrtsWMHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFIvVXNlcnMva2F5YzA2L3dvcmtzcGFjZS9Cb3dsaW5nL3Byb2plY3QvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUQfpOxHcdQfOQ33sz6NhSMT3nCCs=
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAEwhePAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFF9t5V0AAZub3RpZnlzcQB+AAwCLchIdAAEd2FpdHNxAH4ADAPJZl50AAxTY2FsYVZlcnNpb25zcQB+AAzOdUBLdAAETmFtZXNxAH4ADM9w1/p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhPDtfXQAEHRlc3REZXBlbmRlbmNpZXNzcQB+AAxQbdV6dAAMYnVpbGRMb2FkZXJzc3EAfgAMCjrfNnQABUJ1aWxkc3EAfgAMbuzLDXQABmVxdWFsc3NxAH4ADKpuKQp0AAdwcm9qZWN0c3EAfgAMPoU4CHQACUpldHR5UG9ydHNxAH4ADMYQ9+N0AAxhc0luc3RhbmNlT2ZzcQB+AAzXpniidAAScHJvamVjdERlZmluaXRpb25zc3EAfgAMrFyJa3QADHN5bmNocm9uaXplZHNxAH4ADENpZdx0AAxhbGxSZXNvbHZlcnNzcQB+AAwIJ0VpdAANJGlzSW5zdGFuY2VPZnNxAH4ADB01dH50AAdWZXJzaW9uc3EAfgAMMGGQD3QACW5vdGlmeUFsbHNxAH4ADI0xqjZ0AAtyb290UHJvamVjdHNxAH4ADCNS2fx0AAxpc0luc3RhbmNlT2ZzcQB+AAwzC2mVdAAPU2NhbGF0cmFWZXJzaW9uc3EAfgAMLI9jBnQAAj09c3EAfgAMYxZes3QABWNsb25lc3EAfgAMZon7gnQACHRvU3RyaW5nc3EAfgAMFj2genQAE2FjY2VwdGFuY2VUZXN0UGF1c2VzcQB+AAx8dF5KdAACIT1zcQB+AAyL0ehQdAAIcHJvamVjdHNzcQB+AAxlWA5rdAAIZ2V0Q2xhc3NzcQB+AAyiiSqSdAACbmVzcQB+AAzkDm6bdAAMZGVwZW5kZW5jaWVzc3EAfgAM5CPjnnQAAmVxc3EAfgAM7+3/m3QACHNldHRpbmdzc3EAfgAMnz45EHQAAiMjc3EAfgAMuZHxrnQACGZpbmFsaXplc3EAfgAMnZNllXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAddXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdABwc3EAfgB5c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4AfXNxAH4AdABwc3EAfgB5dXEAfgBYAAAAAHNxAH4AdABwc3EAfgB5dXEAfgBYAAAAAHNxAH4AdABwc3EAfgB5dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB8dAAFQnVpbGRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAAGT2JqZWN0c3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NxAH4AmXQABGphdmFzcQB+AJl0AARsYW5ncQB+AJ5zcQB+AI10AANBbnlzcQB+AJFzcQB+AJR1cQB+AJcAAAACc3EAfgCZdAAFc2NhbGFxAH4AnnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSCGLN6XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFZDOlxVc2Vyc1xDaHJpc1x3b3Jrc3BhY2VcOTlQcm9ibGVtc1xwcm9qZWN0XHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOCgfgdiCzvGWqqeR0hKizdO/dOS
 external apis:
 0 items
 source infos:
 1 items
-/Users/kayc06/workspace/Bowling/project/project/Build.scala -> 
+C:\Users\Chris\workspace\99Problems\project\project\Build.scala -> 
 AAAAAAAAAAA=
 compilations:
 1 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUK7bFjB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUi9Vc2Vycy9rYXljMDYvd29ya3NwYWNlL0Jvd2xpbmcvcHJvamVjdC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUghizel1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVkM6XFVzZXJzXENocmlzXHdvcmtzcGFjZVw5OVByb2JsZW1zXHByb2plY3RccHJvamVjdFx0YXJnZXRcc2NhbGEtMi4xMFxzYnQtMC4xM1xjbGFzc2VzdAABLw==

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bowling.iml" filepath="$PROJECT_DIR$/.idea/modules/bowling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bowling-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bowling-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-99problems.iml" filepath="$PROJECT_DIR$/.idea/modules/root-99problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-99problems-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-99problems-build.iml" />
     </modules>
   </component>
 </project>
