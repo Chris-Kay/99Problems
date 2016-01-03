@@ -28,4 +28,8 @@ object P01 {
 
   def isPalindrome[A](ls: List[A]): Boolean = ls.reverse == ls
 
+  def flatten(ls: List[Any]): List[Any] = ls flatMap {
+    case list: List[_] => flatten(list)
+    case i:Int => List(i)
+  }
 }

@@ -29,5 +29,9 @@ class problem1 extends Specification {
     "find out if list isPalindrome" in {
       P01.isPalindrome(List(1, 2, 3, 2, 1)) must beTrue
     }
+
+    "flatter a nested list structure" in {
+      P01.flatten(List(List(1, 1), 2, List(3, List(5, 8)))) mustEqual List(1, 1, 2, 3, 5, 8)
+    }
   }
 }
