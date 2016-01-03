@@ -1,5 +1,0 @@
-[debug] Running TaskDef(ScalaProblems.problem1, specs2 Specification fingerprint, false, [SuiteSelector])
-[debug] Summary for specs2 not available.
-[info] Passed: Total 2, Failed 0, Errors 0, Passed 2
-[debug] Passed tests:
-[debug] 	ScalaProblems.problem1

@@ -1,9 +1,6 @@
 package ScalaProblems
 import org.specs2.mutable.Specification
 
-/**
- * Created by Chris on 03/01/2016.
- */
 class problem1 extends Specification {
 
   "The Score" should {
@@ -15,6 +12,10 @@ class problem1 extends Specification {
     "return last but one" in {
 
      P01.penultimate(List(1, 1, 2, 3, 5, 8)) mustEqual 5
+    }
+
+    "return nth charecter" in {
+      P01.nth(2, List(1, 1, 2, 3, 5, 8)) mustEqual 2
     }
   }
 }

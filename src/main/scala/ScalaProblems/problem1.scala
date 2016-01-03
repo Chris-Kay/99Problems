@@ -14,6 +14,13 @@ object P01 {
   // easy.
   def lastBuiltin[A](ls: List[A]): A = ls.last
 
-  def penultimate[A](ls: List[A]): A = ls.slice(1,ls.size - 1).last
-  
+//  def penultimate[A](ls: List[A]): A = ls.slice(1,ls.size - 1).last
+  def penultimate[A](ls: List[A]): A = ls.init.last
+
+  def nth[A](nth: Int, ls: List[A]): Any = {
+    if (nth >= 0) ls(nth)
+    else throw new NoSuchElementException
+  }
+
+
 }
