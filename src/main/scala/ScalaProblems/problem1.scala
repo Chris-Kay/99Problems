@@ -22,5 +22,10 @@ object P01 {
     else throw new NoSuchElementException
   }
 
+  def length[A](ls: List[A]): Int = ls.length
+
+  def reverse[A](ls: List[A]): List[A] = ls.reverse
+
+  def isPalindrome[A](ls: List[A]): Boolean = ls.reverse == ls
 
 }
