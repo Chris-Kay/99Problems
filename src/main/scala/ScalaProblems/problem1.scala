@@ -9,12 +9,12 @@ package ScalaProblems
 //     def last[A](l: List[A]): A = ...
 // The `[A]` allows us to handle lists of any type.
 
-object P01 {
+object listBasedChallenges {
   // There are several ways to solve this problem.  If we use builtins, it's very
   // easy.
   def lastBuiltin[A](ls: List[A]): A = ls.last
 
-//  def penultimate[A](ls: List[A]): A = ls.slice(1,ls.size - 1).last
+  //  def penultimate[A](ls: List[A]): A = ls.slice(1,ls.size - 1).last
   def penultimate[A](ls: List[A]): A = ls.init.last
 
   def nth[A](nth: Int, ls: List[A]): Any = {
@@ -30,6 +30,33 @@ object P01 {
 
   def flatten(ls: List[Any]): List[Any] = ls flatMap {
     case list: List[_] => flatten(list)
-    case i:Int => List(i)
+    case i: Int => List(i)
+  }
+
+  def pack[A](ls: List[A]): List[List[A]] = {
+    if (ls.isEmpty) List(List())
+    else {
+      val (packed, next) = ls span {
+        _ == ls.head
+      }
+      if (next == Nil) List(packed)
+      else packed :: pack(next)
+    }
+  }
+
+  def compress[A](ls: List[A]):List[Any] = {
+    if (ls.isEmpty) List()
+    else {
+      val (packed, next) = ls span {
+        _ == ls.head
+      }
+      println("NEXT", next)
+      println("PACKED", packed.head)
+      if (next == Nil) List(packed.head)
+      else packed :: compress(next)
+
+      List(packed)
+    }
+
   }
 }

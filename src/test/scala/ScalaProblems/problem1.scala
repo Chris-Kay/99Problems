@@ -6,32 +6,42 @@ class problem1 extends Specification {
   "The Score" should {
     "return last element" in {
 
-      P01.lastBuiltin(List(1, 1, 2, 3, 5, 8)) mustEqual 8
+      listBasedChallenges.lastBuiltin(List(1, 1, 2, 3, 5, 8)) mustEqual 8
      }
 
     "return last but one" in {
 
-     P01.penultimate(List(1, 1, 2, 3, 5, 8)) mustEqual 5
+     listBasedChallenges.penultimate(List(1, 1, 2, 3, 5, 8)) mustEqual 5
     }
 
     "return nth charecter" in {
-      P01.nth(2, List(1, 1, 2, 3, 5, 8)) mustEqual 2
+      listBasedChallenges.nth(2, List(1, 1, 2, 3, 5, 8)) mustEqual 2
     }
 
     "return the length of the list" in {
-      P01.length(List(1, 1, 2, 3, 5, 8)) mustEqual 6
+      listBasedChallenges.length(List(1, 1, 2, 3, 5, 8)) mustEqual 6
     }
 
     "reverses the list" in {
-      P01.reverse(List(1, 1, 2, 3, 5, 8)) mustEqual List(8, 5, 3, 2, 1, 1)
+      listBasedChallenges.reverse(List(1, 1, 2, 3, 5, 8)) mustEqual List(8, 5, 3, 2, 1, 1)
     }
 
     "find out if list isPalindrome" in {
-      P01.isPalindrome(List(1, 2, 3, 2, 1)) must beTrue
+      listBasedChallenges.isPalindrome(List(1, 2, 3, 2, 1)) must beTrue
     }
 
     "flatter a nested list structure" in {
-      P01.flatten(List(List(1, 1), 2, List(3, List(5, 8)))) mustEqual List(1, 1, 2, 3, 5, 8)
+      listBasedChallenges.flatten(List(List(1, 1), 2, List(3, List(5, 8)))) mustEqual List(1, 1, 2, 3, 5, 8)
+    }
+
+    "repeated elements into nested list" in {
+      listBasedChallenges.pack(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e)) mustEqual
+        List(List('a, 'a, 'a, 'a), List('b), List('c, 'c), List('a, 'a), List('d), List('e, 'e, 'e, 'e))
+    }
+
+    "Elimimate consecutive duplicates in a list" in {
+      listBasedChallenges.compress(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e)) mustEqual
+        List('a, 'b, 'c, 'a, 'd, 'e)
     }
   }
 }
