@@ -60,4 +60,17 @@ object listBasedChallenges {
       else (packed.size, packed.head) :: encode(next)
     }
   }
+
+  def encodeModified[A](ls: List[A]): List[Any] = {
+    if (ls.isEmpty) List(List())
+    else {
+      val (packed, next) = ls span {
+        _ == ls.head
+      }
+
+      if (next == Nil) List((packed.size, packed.head))
+      else if (packed.size == 1) packed.head :: encodeModified(next)
+      else (packed.size, packed.head) :: encodeModified(next)
+    }
+  }
 }
