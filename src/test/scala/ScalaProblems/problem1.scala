@@ -43,5 +43,10 @@ class problem1 extends Specification {
       listBasedChallenges.compress(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e)) mustEqual
         List('a, 'b, 'c, 'a, 'd, 'e)
     }
+
+    "encode the run length of a list" in {
+      listBasedChallenges.encode(List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e)) mustEqual
+        List((4,'a), (1,'b), (2,'c), (2,'a), (1,'d), (4,'e))
+    }
   }
 }

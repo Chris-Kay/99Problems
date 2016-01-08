@@ -44,19 +44,20 @@ object listBasedChallenges {
     }
   }
 
-  def compress[A](ls: List[A]):List[Any] = {
-    if (ls.isEmpty) List()
+  def compress[A](ls: List[A]): List[A] = ls match {
+    case Nil => Nil
+    case h :: tail => h :: compress(tail.dropWhile(_ == h))
+  }
+
+  def encode[A](ls: List[A]): List[Any] = {
+    if (ls.isEmpty) List(List())
     else {
       val (packed, next) = ls span {
         _ == ls.head
       }
-      println("NEXT", next)
-      println("PACKED", packed.head)
-      if (next == Nil) List(packed.head)
-      else packed :: compress(next)
 
-      List(packed)
+      if (next == Nil) List((packed.size, packed.head))
+      else (packed.size, packed.head) :: encode(next)
     }
-
   }
 }
