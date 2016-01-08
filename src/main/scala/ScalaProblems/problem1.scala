@@ -73,4 +73,15 @@ object listBasedChallenges {
       else (packed.size, packed.head) :: encodeModified(next)
     }
   }
+
+  def decode[A](ls: List[A]) = ls flatMap {
+      case (e1, e2) => sort(e1, e2)
+    }
+    def sort(e1: , e2: Any) = {
+      val int: Int = e1.
+      for (i <- 1 to int) {
+        println(List(e2))
+      }
+      List(e2)
+    }
 }
