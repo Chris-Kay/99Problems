@@ -74,14 +74,10 @@ object listBasedChallenges {
     }
   }
 
-  def decode[A](ls: List[A]) = ls flatMap {
-      case (e1, e2) => sort(e1, e2)
+  //List.fill first parameter states how many times the second parameter should be added
+  def decode[A](xs: List[(Int, A)]) = xs flatMap {
+    x => {
+      List.fill(x._1)(x._2)
     }
-    def sort(e1: , e2: Any) = {
-      val int: Int = e1.
-      for (i <- 1 to int) {
-        println(List(e2))
-      }
-      List(e2)
-    }
+  }
 }
