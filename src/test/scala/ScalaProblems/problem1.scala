@@ -58,5 +58,10 @@ class problem1 extends Specification {
       listBasedChallenges.decode(List((4, 'a), (1, 'b), (2, 'c), (2, 'a), (1, 'd), (4, 'e))) mustEqual
         List('a, 'a, 'a, 'a, 'b, 'c, 'c, 'a, 'a, 'd, 'e, 'e, 'e, 'e)
     }
+
+    "duplicate elements in a list" in {
+      listBasedChallenges.duplicate(List('a, 'b, 'c, 'c, 'd)) mustEqual
+        List('a, 'a, 'b, 'b, 'c, 'c, 'c, 'c, 'd, 'd)
+    }
   }
 }

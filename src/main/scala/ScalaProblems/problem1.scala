@@ -75,9 +75,15 @@ object listBasedChallenges {
   }
 
   //List.fill first parameter states how many times the second parameter should be added
-  def decode[A](xs: List[(Int, A)]) = xs flatMap {
+  def decode[A](ls: List[(Int, A)]) = ls flatMap {
     x => {
       List.fill(x._1)(x._2)
+    }
+  }
+
+  def duplicate[A](ls: List[A]) = ls flatMap {
+    x => {
+      List.fill(2)(x)
     }
   }
 }
