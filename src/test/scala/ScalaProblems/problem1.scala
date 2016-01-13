@@ -63,5 +63,15 @@ class problem1 extends Specification {
       listBasedChallenges.duplicate(List('a, 'b, 'c, 'c, 'd)) mustEqual
         List('a, 'a, 'b, 'b, 'c, 'c, 'c, 'c, 'd, 'd)
     }
+
+    "duplicate elements N number of times" in {
+      listBasedChallenges.duplicateN(3, List('a, 'b, 'c, 'c, 'd)) mustEqual
+        List('a, 'a, 'a, 'b, 'b, 'b, 'c, 'c, 'c, 'c, 'c, 'c, 'd, 'd, 'd)
+    }
+
+    "drop every Nth number" in {
+      listBasedChallenges.drop(3, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
+        List('a, 'b, 'd, 'e, 'g, 'h, 'j, 'k)
+    }
   }
 }

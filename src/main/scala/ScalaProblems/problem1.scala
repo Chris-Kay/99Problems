@@ -86,4 +86,14 @@ object listBasedChallenges {
       List.fill(2)(x)
     }
   }
+
+  def duplicateN[A](n: Int, ls: List[A]) = ls flatMap {
+    x => {
+      List.fill(n)(x)
+    }
+  }
+
+  def drop[A](n: Int, ls: List[A]) = {
+    ls.sliding(n - 1, n)
+  }
 }
