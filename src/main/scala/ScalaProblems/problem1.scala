@@ -102,4 +102,8 @@ object listBasedChallenges {
   def split[A](n: Int, ls: List[A]): (List[Any], List[Any]) = {
     ls.splitAt(n)
   }
+
+  def slice[A](start: Int, end: Int, ls: List[A]) = {
+    ls.slice(start, end)
+  }
 }

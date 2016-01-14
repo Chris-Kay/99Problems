@@ -83,5 +83,10 @@ class problem1 extends Specification {
       listBasedChallenges.split(3, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
         (List('a, 'b, 'c),List('d, 'e, 'f, 'g, 'h, 'i, 'j, 'k))
     }
+
+    "splice list at exact point" in {
+      listBasedChallenges.slice(3, 7, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
+        List('d, 'e, 'f, 'g)
+    }
   }
 }
