@@ -94,6 +94,8 @@ object listBasedChallenges {
   }
 
   def drop[A](n: Int, ls: List[A]) = {
-    ls.sliding(n - 1, n)
+    ls.sliding(n - 1, n) flatMap {
+      x => x
+    }
   }
 }
