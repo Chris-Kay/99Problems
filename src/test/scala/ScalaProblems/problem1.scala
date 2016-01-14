@@ -69,9 +69,14 @@ class problem1 extends Specification {
         List('a, 'a, 'a, 'b, 'b, 'b, 'c, 'c, 'c, 'c, 'c, 'c, 'd, 'd, 'd)
     }
 
-    "drop every Nth number" in {
+    "drop every 3rd number" in {
       listBasedChallenges.drop(3, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
         List('a, 'b, 'd, 'e, 'g, 'h, 'j, 'k)
+    }
+
+    "drop every 2nd number" in {
+      listBasedChallenges.drop(2, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
+        List('a, 'c, 'e, 'g, 'i, 'k)
     }
   }
 }
