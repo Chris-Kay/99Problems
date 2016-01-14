@@ -78,5 +78,10 @@ class problem1 extends Specification {
       listBasedChallenges.drop(2, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
         List('a, 'c, 'e, 'g, 'i, 'k)
     }
+
+    "split into 2 parts" in {
+      listBasedChallenges.split(3, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
+        (List('a, 'b, 'c),List('d, 'e, 'f, 'g, 'h, 'i, 'j, 'k))
+    }
   }
 }

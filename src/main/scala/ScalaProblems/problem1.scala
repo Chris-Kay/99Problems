@@ -98,4 +98,8 @@ object listBasedChallenges {
       x => x
     }
   }
+
+  def split[A](n: Int, ls: List[A]): (List[Any], List[Any]) = {
+    ls.splitAt(n)
+  }
 }
