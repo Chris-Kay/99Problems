@@ -106,5 +106,10 @@ class problem1 extends Specification {
       listBasedChallenges.insertAt('new, 1, List('a, 'b, 'c, 'd)) mustEqual
         List('a, 'new, 'b, 'c, 'd)
     }
+
+    "All elements n a given range" in {
+      listBasedChallenges.range(4, 9) mustEqual
+        List(4, 5, 6, 7, 8, 9)
+    }
   }
 }

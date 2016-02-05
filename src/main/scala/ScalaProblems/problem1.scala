@@ -127,4 +127,8 @@ object listBasedChallenges {
     val x = ls.splitAt(n)
     x._1 ::: element :: x._2
   }
+
+  def range(start: Int, end: Int) = {
+    start to end toList
+  }
 }
