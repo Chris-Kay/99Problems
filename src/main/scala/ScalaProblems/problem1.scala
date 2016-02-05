@@ -122,4 +122,9 @@ object listBasedChallenges {
     val x = ls.splitAt(n)
     (x._1 ++ x._2.tail, x._2.head)
   }
+
+  def insertAt[A](element: A, n : Int, ls: List[A]) = {
+    val x = ls.splitAt(n)
+    x._1 ::: element :: x._2
+  }
 }

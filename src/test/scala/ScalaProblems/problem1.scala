@@ -97,9 +97,14 @@ class problem1 extends Specification {
         List('j, 'k, 'a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i)
     }
 
-    "romove element at N" in {
+    "remove element at N" in {
       listBasedChallenges.removeAt(1, List('a, 'b, 'c, 'd)) mustEqual
         (List('a, 'c, 'd),'b)
+    }
+
+    "Inter an element at gievn position into a list" in {
+      listBasedChallenges.insertAt('new, 1, List('a, 'b, 'c, 'd)) mustEqual
+        List('a, 'new, 'b, 'c, 'd)
     }
   }
 }
