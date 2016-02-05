@@ -95,7 +95,11 @@ class problem1 extends Specification {
 
       listBasedChallenges.rotate(-2, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
         List('j, 'k, 'a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i)
+    }
 
+    "romove element at N" in {
+      listBasedChallenges.removeAt(1, List('a, 'b, 'c, 'd)) mustEqual
+        (List('a, 'c, 'd),'b)
     }
   }
 }

@@ -117,4 +117,9 @@ object listBasedChallenges {
       x._2 ++ x._1
     }
   }
+
+  def removeAt[A](n: Int, ls: List[A]) = {
+    val x = ls.splitAt(n)
+    (x._1 ++ x._2.tail, x._2.head)
+  }
 }
