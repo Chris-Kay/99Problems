@@ -108,7 +108,13 @@ object listBasedChallenges {
   }
 
   def rotate[A](n: Int, ls: List[A]) = {
-    val x = ls.splitAt(n)
-    x._2 ++ x._1
+    if(n > 0) {
+      val x = ls.splitAt(n)
+      x._2 ++ x._1
+    } else {
+      val x = ls.splitAt(ls.size + n)
+
+      x._2 ++ x._1
+    }
   }
 }
