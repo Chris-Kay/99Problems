@@ -88,5 +88,10 @@ class problem1 extends Specification {
       listBasedChallenges.slice(3, 7, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
         List('d, 'e, 'f, 'g)
     }
+
+    "rotate at N" in {
+      listBasedChallenges.rotate(3, List('a, 'b, 'c, 'd, 'e, 'f, 'g, 'h, 'i, 'j, 'k)) mustEqual
+        List('d, 'e, 'f, 'g, 'h, 'i, 'j, 'k, 'a, 'b, 'c)
+    }
   }
 }

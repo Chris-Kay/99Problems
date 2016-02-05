@@ -106,4 +106,9 @@ object listBasedChallenges {
   def slice[A](start: Int, end: Int, ls: List[A]) = {
     ls.slice(start, end)
   }
+
+  def rotate[A](n: Int, ls: List[A]) = {
+    val x = ls.splitAt(n)
+    x._2 ++ x._1
+  }
 }
